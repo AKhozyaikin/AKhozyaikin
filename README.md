@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @AKhozyaikin
-- 👀 I’m interested in system administration and python.
-
+- 👀 I’m interested in system administration, python, AI and a lot of other things related to high tech and IT.
